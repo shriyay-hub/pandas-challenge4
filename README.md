@@ -1,5 +1,5 @@
 # pandas-challenge4
 
-I used the Xpert Learning Assistant provided for this assignemnt. 
-I changed the a lot of the vairbale names so apologies for that! 
+I used the Xpert Learning Assistant provided for this assignment. 
+I changed a lot of the variable names, so I apologize for that! 
 :)))
